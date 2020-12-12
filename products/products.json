@@ -1,116 +1,156 @@
 {
-    "categories":[
-        {
-            "categorieName":"Sports Nutritions",
-            "items":[
-                {
-                    "name":"MuscleMed Carnivor Mass 10lbS Chocolate",
-                    "image":"WHIA3229.JPG",
-                    "description":"",
-                    "price":"210.00"
-                },
-                {
-                    "name":"MuscleMed Carnivor Mass 6lbS Chocolate",
-                    "image":"WHIA3229.JPG",
-                    "description":"",
-                    "price":"160.00"
-                }
-            ]
-        },
-        {
-            "categorieName":"Nutritions",
-            "items":[
-                {
-                    "name":"AMS PenaMax Capsules 60S",
-                    "image":"ASZX7242.JPG",
-                    "description":"",
-                    "price":"450"
-                },
-                {
-                    "name":"AMS ColaCaps w/Vitamin C Capsules 60S",
-                    "image":"FAFP0954.JPG",
-                    "description":"",
-                    "price":"285.00/1+1"
-                }
-            ]
-        },
-        {
-            "categorieName":"Facial Care",
-            "items":[
-                {
-                    "name":"Cetaphil Gentle Cleansers",
-                    "image":"Facial%20Cleansers/CBHS4390.JPG",
-                    "description":"",
-                    "price":"64.00"
-                },
-                {
-                    "name":"Ponds Flawless White Facial",
-                    "image":"Facial%20Cleansers/DVQZ8062.JPG",
-                    "description":"",
-                    "price":"37.00"
-                },
-                {
-                    "name":"Bioderma Cleansing Gel",
-                    "image":"Facial%20Cleansers/EHVI2054.JPG",
-                    "description":"",
-                    "price":"52.00"
-                },
-                {
-                    "name":"SebaMed Clear Face Cleansing Foam",
-                    "image":"Facial%20Cleansers/FBGO4807.JPG",
-                    "description":"",
-                    "price":"26.00"
-                },
-                {
-                    "name":"SebaMed Facial Cleansers",
-                    "image":"Facial%20Cleansers/FOHH3240.JPG",
-                    "description":"",
-                    "price":"29.50"
-                },
-                {
-                    "name":"Himalaya Walnut Face Wash",
-                    "image":"Facial%20Cleansers/FOYV0851.JPG",
-                    "description":"",
-                    "price":"32.00"
-                },
-                {
-                    "name":"Avene Cleanance Cleansing Gel",
-                    "image":"Facial%20Cleansers/GAMZ6885.JPG",
-                    "description":"",
-                    "price":"95.00"
-                },
-                {
-                    "name":"La Fresh Cucumber Facial Cleanser",
-                    "image":"Facial%20Cleansers/HOVD8170.JPG",
-                    "description":"",
-                    "price":"7.50"
-                },
-                {
-                    "name":"Beesline Propolis Facial Wash",
-                    "image":"Facial%20Cleansers/ICCH4294.JPG",
-                    "description":"",
-                    "price":"63.00"
-                },
-                {
-                    "name":"Ponds Pimple Clear Face Wash",
-                    "image":"Facial%20Cleansers/IIKC9340.JPG",
-                    "description":"",
-                    "price":"25.00"
-                },
-                {
-                    "name":"Himalaya Pore Tightening Face Wash",
-                    "image":"Facial%20Cleansers/IVFY5324.JPG",
-                    "description":"",
-                    "price":"33.00"
-                },
-                {
-                    "name":"Neutrogena Deep Clean Facial Gel Wash",
-                    "image":"Facial%20Cleansers/JIWZ7941.JPG",
-                    "description":"",
-                    "price":"54.00"
-                }
-                
-            ]
-        }
+    "categories": [
+      {
+        "categorieName": "Sports Nutritions",
+        "items": [
+          {
+            "name": "MuscleMed Carnivor Mass 10lbS Chocolate",
+            "image": "WHIA3229.JPG",
+            "description": "",
+            "price": "210.00"
+          },
+          {
+            "name": "MuscleMed Carnivor Mass 6lbS Chocolate",
+            "image": "WHIA3229.JPG",
+            "description": "",
+            "price": "160.00"
+          }
+        ]
+      },
+      {
+        "categorieName": "Nutritions",
+        "items": [
+          {
+            "name": "AMS PenaMax Capsules 60S",
+            "image": "ASZX7242.JPG",
+            "description": "",
+            "price": "450"
+          },
+          {
+            "name": "AMS ColaCaps w/Vitamin C Capsules 60S",
+            "image": "FAFP0954.JPG",
+            "description": "",
+            "price": "285.00/1+1"
+          }
+        ]
+      },
+      {
+        "categorieName": "Facial Care",
+        "items": [
+          {
+            "name": "Cetaphil Gentle Cleansers",
+            "image": "Facial%20Cleansers/CBHS4390.JPG",
+            "description": "",
+            "price": "64.00"
+          },
+          {
+            "name": "Ponds Flawless White Facial",
+            "image": "Facial%20Cleansers/DVQZ8062.JPG",
+            "description": "",
+            "price": "37.00"
+          },
+          {
+            "name": "Bioderma Cleansing Gel",
+            "image": "Facial%20Cleansers/EHVI2054.JPG",
+            "description": "",
+            "price": "52.00"
+          },
+          {
+            "name": "SebaMed Clear Face Cleansing Foam",
+            "image": "Facial%20Cleansers/FBGO4807.JPG",
+            "description": "",
+            "price": "26.00"
+          },
+          {
+            "name": "SebaMed Facial Cleansers",
+            "image": "Facial%20Cleansers/FOHH3240.JPG",
+            "description": "",
+            "price": "29.50"
+          },
+          {
+            "name": "Himalaya Walnut Face Wash",
+            "image": "Facial%20Cleansers/FOYV0851.JPG",
+            "description": "",
+            "price": "32.00"
+          },
+          {
+            "name": "Avene Cleanance Cleansing Gel",
+            "image": "Facial%20Cleansers/GAMZ6885.JPG",
+            "description": "",
+            "price": "95.00"
+          },
+          {
+            "name": "La Fresh Cucumber Facial Cleanser",
+            "image": "Facial%20Cleansers/HOVD8170.JPG",
+            "description": "",
+            "price": "7.50"
+          },
+          {
+            "name": "Beesline Propolis Facial Wash",
+            "image": "Facial%20Cleansers/ICCH4294.JPG",
+            "description": "",
+            "price": "63.00"
+          },
+          {
+            "name": "Ponds Pimple Clear Face Wash",
+            "image": "Facial%20Cleansers/IIKC9340.JPG",
+            "description": "",
+            "price": "25.00"
+          },
+          {
+            "name": "Himalaya Pore Tightening Face Wash",
+            "image": "Facial%20Cleansers/IVFY5324.JPG",
+            "description": "",
+            "price": "33.00"
+          },
+          {
+            "name": "Neutrogena Deep Clean Facial Gel Wash",
+            "image": "Facial%20Cleansers/JIWZ7941.JPG",
+            "description": "",
+            "price": "54.00"
+          }
+        ]
+      },
+      {
+        "categorieName": "Nutrition Vitamins",
+        "items": [
+          {
+            "name": "Feroglobin Liquid",
+            "image": "Feroglobin%20Liquid%2034.jpg",
+            "description": "",
+            "price": "34.00"
+          },
+          {
+            "name": "Feroglobin Cap 30s",
+            "image": "Feroglobin%20Cap%2030s%2039.jpg",
+            "description": "",
+            "price": "39.00"
+          },
+          {
+            "name": "Osteocare Tab 30s",
+            "image": "Osteocare%20Tab%2030s%2032.jpg",
+            "description": "",
+            "price": "32.00"
+          },
+          {
+            "name": "Perfectil Tab 30s",
+            "image": "Perfectil%20Tab%2030s%2057.jpg",
+            "description": "",
+            "price": "57.00"
+          },
+          {
+            "name": "Wellkid Chew Tab 30s",
+            "image": "Wellkid%20Chew%20Tab%2030s%2048.jpg",
+            "description": "",
+            "price": "48.00"
+          },
+          {
+            "name": "Wellteen Her Tab 30s",
+            "image": "Wellteen%20Her%20Tab%2030s%2054.jpg",
+            "description": "",
+            "price": "54.00"
+          }
+        ]
+      }
     ]
-}
+  }
